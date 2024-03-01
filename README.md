@@ -1,2 +1,2 @@
-# Atividade-5---Acessibilidade
+# Atividade-5-Acessibilidade
 Aprendendo o JavaScript
